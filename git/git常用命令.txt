@@ -1,0 +1,5 @@
+git config --global user.name "xuchengcheng"
+git config --global user.email "1562603549@qq.com"
+ssh-keygen -t rsa -C "1562603549@qq.com"
+
+git clone git@github.com:xiaqianqin/studyData.git
